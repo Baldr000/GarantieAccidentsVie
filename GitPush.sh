@@ -2,7 +2,7 @@
 
 if [ -n $1 ] 
 then 
-	print "Qu'est ce que tu as fait ?"
+	echo 'Qu est ce que tu as fait ?'
 	read -r commit
 else
 	commit=$1
