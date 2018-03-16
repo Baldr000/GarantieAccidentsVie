@@ -1,0 +1,31 @@
+Hello Gyus, this txt will be help you using git.
+
+/**** For the first using ********/
+
+# create a working copy
+git clone "https://github.com/Baldr000/GarantieAccidentsVie"
+git add <PATH_file>
+# or
+git add *
+git commit -m "First commit of NAME"
+git remote add origin https://github.com/Baldr000/GarantieAccidentsVie.git
+git push -u origin master
+
+
+/**** For dayly using ***********/
+
+git add <PATH_file>
+# or
+git add *
+git commit -m "What are you doing"
+git remote add origin https://github.com/Baldr000/GarantieAccidentsVie.git
+git push -u origin master
+
+
+/**** For more details *********/
+
+http://rogerdudler.github.io/git-guide/index.fr.html
+
+/**** For Windows *************/
+
+https://gitforwindows.org/
