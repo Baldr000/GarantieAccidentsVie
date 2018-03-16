@@ -1,0 +1,4 @@
+
+La librairies suivantes est sympas et peut être utilisée avec le capteur MAX 30100
+
+https://github.com/sparkfun/SparkFun_MAX3010x_Sensor_Library
